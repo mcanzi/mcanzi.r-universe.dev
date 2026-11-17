@@ -1,0 +1,18 @@
+[
+  {
+    "package": "simling",
+    "url": "https://github.com/mcanzi/simling"
+  },
+  {
+    "package": "silverback",
+    "url": "https://github.com/mcanzi/silverback"
+  },
+  {
+    "package": "glasses3",
+    "url": "https://github.com/mcanzi/glasses3"
+  },
+  {
+    "package": "konstats",
+    "url": "https://github.com/mcanzi/konstats"
+  }
+]
