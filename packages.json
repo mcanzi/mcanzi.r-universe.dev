@@ -14,5 +14,9 @@
   {
     "package": "konstats",
     "url": "https://github.com/mcanzi/konstats"
+  },
+  {
+    "package": "tidycrates",
+    "url": "https://github.com/mcanzi/tidycrates"
   }
 ]
